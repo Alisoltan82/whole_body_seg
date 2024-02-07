@@ -1,4 +1,4 @@
-# whole_body_seg
+# whole_body_segmentation
 
 ![image_1](https://github.com/Alisoltan82/whole_body_seg/blob/main/wholebody_seg_output/Screenshot.png)
 ![image_2](https://github.com/Alisoltan82/whole_body_seg/blob/main/wholebody_seg_output/Screenshot_1.png)
